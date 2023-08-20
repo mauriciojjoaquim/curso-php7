@@ -1,12 +1,12 @@
 <?php
 
 //Variaveis simples
-$nome = "Mauricio José Joaquim";
-$site ='cse-eletric.com.br';
+//$nome = "Mauricio José Joaquim";
+//$site ='cse-eletric.com.br';
 
-$ano = 1977;
-$salario = 5500.99;
-$bloqueado = false;
+//$ano = 1977;
+//$salario = 5500.99;
+//$bloqueado = false;
 
 /////////////////////////////
 
@@ -31,7 +31,7 @@ $frutas = array("abacaxi","laranja","manga");
 $nulo = NULL;//não reserva eespaço na memoria
 $vasio = "";//reserva um epaço na memoria
 
-$ip = $_SERVER["REMTE_ADDR"];
+$ip = $_SERVER["REMOTE_ADDR"];
 
 echo $ip;
 
