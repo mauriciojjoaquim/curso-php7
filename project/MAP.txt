@@ -1,0 +1,17 @@
+2023-08-31 22:03:43
+
+
+incs
+|
+|_css
+|   |_styles.css
+|   |_styles_login.css
+|
+|_imagens
+|       |
+|       |_logo
+|       |_icon
+|       |_usuario
+|_js
+|_config
+|_bin 
